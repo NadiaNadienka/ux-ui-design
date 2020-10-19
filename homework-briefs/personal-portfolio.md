@@ -41,3 +41,4 @@ Run a spell checker on your texts. You can use [Grammarly](https://app.grammarly
 
 - [Building and effective Dev portfolio](https://joshwcomeaucom.s3.amazonaws.com/building-an-effective-dev-portfolio.pdf) by Josh Comeau
 - [Tips to create a portfolio](https://www.semplice.com/portfolio-building-checklist)
+- [Developers portfolio repository](https://github.com/emmabostian/developer-portfolios)for inspiration.
